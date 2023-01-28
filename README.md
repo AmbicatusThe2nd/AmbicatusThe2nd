@@ -1,6 +1,6 @@
 ### Hi, I'm Rok. I'm a full-stack software engineer and a computer technician👋
 - 🔭 I'm currently studying for my Master's degree on the University of Maribor
-- 🤔 I’m interested in the fields of Full-stack application development, DevOps and Machine Learning.
+- 🤔 I’m interested in the fields of Full-stack application development, DevOps and IOT.
 - 🥸 I can speak Slovenian (Mother tongue), English, German and Croatian
 
 <br/>  
